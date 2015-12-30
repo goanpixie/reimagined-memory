@@ -1,7 +1,0 @@
-var num= prompt("pick a number","0");
-if (num<10)
-print("small");
-else if(num<100)
-print("medium");
-else
-print("large");
